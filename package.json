@@ -19,7 +19,8 @@
   "homepage": "https://github.com/clmateus/clone_disney_plus#readme",
   "description": "",
   "devDependencies": {
-    "gulp": "^5.0.0",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0",
     "gulp-sass": "^5.1.0",
     "sass": "^1.87.0"
   }
