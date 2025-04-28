@@ -2,6 +2,8 @@
 @use 'variaveis';
 @use 'shows';
 @use 'plans';
+@use 'available-devices';
+
 
 @mixin text($fontSize: 16px) {
     font-size: $fontSize;
